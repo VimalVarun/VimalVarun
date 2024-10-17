@@ -12,10 +12,10 @@
 
 <p align="left">🌱 I love learning as a process and mostly about new things...<br>
 🔭 I’m currently working as an <strong>Intern at AIvariant</strong>.<br>
-🌱 I’m currently learning <strong>Machine Learning</strong> and <strong>Deep Learning</strong>.<br>
+🌱 I’m currently learning <strong>Machine Learning</strong>, <strong>Deep Learning</strong> and <strong>Natural Language Process</strong>.<br>
 👯 I’m looking to collaborate on all topics related to <strong>Data Science</strong>, <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong>.<br>
 💬 Ask me about <strong>Data Science</strong>, <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong>.<br>
-🌱 I’m currently mastering <strong>Python</strong>, <strong>Tableau</strong>, <strong>R</strong>, <strong>MySQL</strong>, <strong>Azure</strong>, <strong>Apache Spark</strong>, <strong>Hadoop</strong>, <strong>SAS</strong>, <strong>Artificial Intelligence</strong>, and <strong>Deep Learning</strong>.<br>
+🌱 I’m currently mastering <strong>Python</strong>, <strong>Tableau</strong>, <strong>Power BI</strong>, <strong>R</strong>, <strong>MySQL</strong>, <strong>Azure</strong>, <strong>Apache Spark</strong>, <strong>Hadoop</strong>, <strong>Artificial Intelligence</strong>, and <strong>Deep Learning</strong>.<br>
 📫 You can reach me at my email id: <strong>vimalvarun98@gmail.com</strong></p>
 
 ###
