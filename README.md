@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vimal.N and I am passionate Data Science enthusiasts from Tamil Nadu, India.</p>
+<p align="left">My name is *Vimal.N* and I am passionate Data Science enthusiasts from Tamil Nadu, India.</p>
 
 ###
 
