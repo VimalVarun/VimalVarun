@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is **Vimal.N** and I am passionate Data Science enthusiasts from Tamil Nadu, India.</p>
+<p align="left"><strong>My name is Vimal.N</strong> and I am a passionate <strong>Data Science enthusiast</strong> from Tamil Nadu, India.</p>
 
 ###
 
@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">🌱 I love learning as a process and mostly about new things...<br>🔭 I’m currently working as an Intern at AIvariant.<br>🌱 I’m currently learning Machine Learning and Deep Learning.<br>👯 I’m looking to collaborate on on all topics related to Data Science, Machine Learning and Artificial Intelliegence.<br>💬 Ask me about Data Science, Machine Learning and Artificial Intelligence.<br>🌱 I’m currently mastering Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, SAS, Artificial Intelligence and Deep learning.<br>📫 You can reach me on my email id vimalvarun98@gmail.com</p>
+<p align="left">🌱 I love learning as a process and mostly about new things...<br>
+🔭 I’m currently working as an <strong>Intern at AIvariant</strong>.<br>
+🌱 I’m currently learning <strong>Machine Learning</strong> and <strong>Deep Learning</strong>.<br>
+👯 I’m looking to collaborate on all topics related to <strong>Data Science</strong>, <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong>.<br>
+💬 Ask me about <strong>Data Science</strong>, <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong>.<br>
+🌱 I’m currently mastering <strong>Python</strong>, <strong>Tableau</strong>, <strong>R</strong>, <strong>MySQL</strong>, <strong>Azure</strong>, <strong>Apache Spark</strong>, <strong>Hadoop</strong>, <strong>SAS</strong>, <strong>Artificial Intelligence</strong>, and <strong>Deep Learning</strong>.<br>
+📫 You can reach me at my email id: <strong>vimalvarun98@gmail.com</strong></p>
 
 ###
 
@@ -54,4 +60,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
 </div>
 
-###
