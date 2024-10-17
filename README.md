@@ -1,4 +1,4 @@
-![Linkedin_Cover_-_Data_Scientist_py4mog](https://in.images.search.yahoo.com/search/images;_ylt=AwrKDpkC4hBn.AEAEVK7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=data+scientist+banner&fr2=piv-web&type=E210IN885G0&fr=mcafee#id=3&iurl=https%3A%2F%2Fas1.ftcdn.net%2Fv2%2Fjpg%2F03%2F04%2F68%2F52%2F1000_F_304685223_ttVGVAkC5JlfgEOTO8KYbN4tjnRqM715.jpg&action=click)
+<img align="above" src="https://github.com/VimalVarun/Githubemc1/blob/main/1000_F_385337070_LSlZ7wWFZdPfiv96H7eKYDjLrHIbQsxb.jpg" alt="pp" width="370" height="290" />
 
 <h1 align="center">Hi 👋, I'm <b>Vimal</b></h1>
 <h3 align="center">A passionate <b>Data Science Enthusiast</b></h3>
