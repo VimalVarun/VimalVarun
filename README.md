@@ -1,4 +1,4 @@
-<img align="above" src="https://github.com/VimalVarun/Githubemc1/blob/main/1000_F_385337070_LSlZ7wWFZdPfiv96H7eKYDjLrHIbQsxb.jpg" alt="pp" width="370" height="290" />
+<img align="above" src="https://github.com/VimalVarun/Githubemc1/blob/main/1000_F_385337070_LSlZ7wWFZdPfiv96H7eKYDjLrHIbQsxb.jpg" alt="pp" width="1000" height="290" />
 
 <h1 align="center">Hi 👋, I'm <b>Vimal</b></h1>
 <h3 align="center">A passionate <b>Data Science Enthusiast</b></h3>
