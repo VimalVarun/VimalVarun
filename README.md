@@ -20,6 +20,8 @@
 ## `Projects:`
 ### [<b>Regression Model for Energy Production and Deployment</b>](https://github.com/VimalVarun/Regression-Model)
 ### [<b>Student Performance and Deployment</b>](https://github.com/VimalVarun/Machine-Learning-Project)
+### [<b>Churn Bank and Deployment</b>](https://github.com/VimalVarun/Deep-Learning-ANN-Project)
+### [<b>Churn Bank Streanlit app</b>](https://deep-learning-ann-project-tesgaxfkgqpkje3w8ob4w3.streamlit.app/)
 
 <img align="right" alt="code" height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
 
