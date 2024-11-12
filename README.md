@@ -23,6 +23,12 @@
 ### [<b>Churn Bank and Deployment</b>](https://github.com/VimalVarun/Deep-Learning-ANN-Project)
 ### [<b>Churn Bank Streanlit app</b>](https://deep-learning-ann-project-tesgaxfkgqpkje3w8ob4w3.streamlit.app/)
 
+## `Certification:`
+### [<b>AIvariant Company Internship Certificate</b>](https://github.com/VimalVarun/Certificate/blob/main/N%20Vimal%20Internship%20Certificate.pdf)
+### [<b>Master Program in Data Science</b>](https://github.com/VimalVarun/Certificate/blob/main/N.Vimal%20Master%20Program%20in%20Data%20Science%20Certificate.pdf)
+### [<b>Database SQL Wiht Python Certification</b>](https://github.com/VimalVarun/Certificate/blob/main/SQL%20Certificate.pdf)
+### [<b>Course Completion Certificate</b>](https://github.com/VimalVarun/Certificate/blob/main/N.Vimal%20Data%20Science%20Certification.pdf)
+
 <img align="right" alt="code" height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
 
 ## `Tools:`
